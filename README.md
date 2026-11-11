@@ -47,13 +47,6 @@ I enjoy building **CRUD systems, and clean, well-organized code**, and I'm curre
 
 ---
 
-## 📁 Featured Projects
-
-- **Student Management System**: team project with login and full CRUD. Java and Spring Boot on the back end, HTML/CSS/JavaScript on the front end, MySQL as the database.
-- **Restaurant Management System**: object-oriented academic project built in C#.
-
----
-
 ## 📊 GitHub Stats
 
 <p align="left">
